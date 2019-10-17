@@ -1,0 +1,3 @@
+/Users/i.soin/cpp1/synonims/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/i.soin/cpp1/synonims/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/i.soin/cpp1/synonims/cmake-build-debug/CMakeFiles/synonims.dir

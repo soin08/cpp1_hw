@@ -1,0 +1,3 @@
+/Users/i.soin/cpp1/second_entry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/i.soin/cpp1/second_entry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/i.soin/cpp1/second_entry/cmake-build-debug/CMakeFiles/second_entry.dir
